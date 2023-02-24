@@ -1,0 +1,2041 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "CoinOne - Cryptocurrency Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Products",
+            "screenshot": "screenshots\/products.jpg",
+            "source": "templates\/products.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/products\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Market Coin",
+            "screenshot": "screenshots\/market-coin.jpg",
+            "source": "templates\/market-coin.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/market-coin\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/portfolio\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo2.strongtheme.com\/coinone\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Cryptocurrency Widgets",
+            "version": "2.3",
+            "file": "cryptocurrency-price-ticker-widget\/cryptocurrency-price-ticker-widget.php",
+            "author": "Cool Plugins"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Rectangle-747.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Rectangle-747-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 110062,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome027.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome027.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 44707,
+            "dimensions": [
+                342,
+                342
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-654@2x.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Group-654@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 118164,
+            "dimensions": [
+                399,
+                403
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome03.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome03-800x775.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 243791,
+            "dimensions": [
+                1115,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mobile-app-8VKRBL7"
+        },
+        {
+            "filename": "Group-255@2x.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Group-255@2x-800x532.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                }
+            ],
+            "filesize": 145017,
+            "dimensions": [
+                1146,
+                762
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Cards.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Cards.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 152525,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Bag.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Bag.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 167110,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Safety.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Safety.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 170394,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "coinonehome026.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome026.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 32501,
+            "dimensions": [
+                355,
+                355
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome010.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome010.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 24237,
+            "dimensions": [
+                592,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome09.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome09.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 17514,
+            "dimensions": [
+                592,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome011.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome011.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8099,
+            "dimensions": [
+                234,
+                68
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome07.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome07-800x545.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 264111,
+            "dimensions": [
+                1200,
+                817
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome012.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome012-800x415.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 291796,
+            "dimensions": [
+                1600,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome017.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome017-800x675.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 241025,
+            "dimensions": [
+                1802,
+                1520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome016.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome016-800x675.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 161252,
+            "dimensions": [
+                1802,
+                1520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome015.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome015-800x675.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 153275,
+            "dimensions": [
+                1802,
+                1520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome014.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome014-800x675.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 153648,
+            "dimensions": [
+                1802,
+                1520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinoneicon02.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinoneicon02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 5217,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-business-management-icons-set-flat-C7EGPS5"
+        },
+        {
+            "filename": "coinoneicon03.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinoneicon03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 5254,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-business-management-icons-set-flat-C7EGPS5"
+        },
+        {
+            "filename": "coinoneicon06.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinoneicon06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 4969,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-business-management-icons-set-flat-C7EGPS5"
+        },
+        {
+            "filename": "coinonehome025.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome025-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 214679,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome023.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome023-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 74512,
+            "dimensions": [
+                853,
+                533
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome021.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome021-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 205749,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-businessman-outdoor-with-laptop-technolog-AE7ZJK8"
+        },
+        {
+            "filename": "coinonehome028.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome028.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 152373,
+            "dimensions": [
+                695,
+                1081
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-app-mockup-HJEQ5PG"
+        },
+        {
+            "filename": "Monitoring.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Monitoring.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 149228,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Select.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Select.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 163479,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Settings.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Settings.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 193442,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Group-284.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-284.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 15670,
+            "dimensions": [
+                713,
+                568
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome034.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome034.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 263799,
+            "dimensions": [
+                742,
+                926
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tradee-cryptocurrency-mobile-app-ui-kit-TTV77ZK"
+        },
+        {
+            "filename": "Group-294.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-294-800x419.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 90029,
+            "dimensions": [
+                1004,
+                526
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinoneicon07.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinoneicon07.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 5009,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-business-management-icons-set-flat-C7EGPS5"
+        },
+        {
+            "filename": "Rectangle-670.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Rectangle-670.jpg",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 69016,
+            "dimensions": [
+                677,
+                810
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome035.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome035-800x1182.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 269234,
+            "dimensions": [
+                1000,
+                1478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mobile-app-8VKRBL7"
+        },
+        {
+            "filename": "coinonehome036.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome036-800x1182.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 254005,
+            "dimensions": [
+                1000,
+                1478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mobile-app-8VKRBL7"
+        },
+        {
+            "filename": "coinonehome037.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome037-800x1182.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 165618,
+            "dimensions": [
+                1000,
+                1478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mobile-app-8VKRBL7"
+        },
+        {
+            "filename": "coinonehome038.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome038-800x1182.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 234222,
+            "dimensions": [
+                1000,
+                1478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mobile-app-8VKRBL7"
+        },
+        {
+            "filename": "coinonehome040.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome040.png",
+            "templates": [
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 207035,
+            "dimensions": [
+                700,
+                1107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-mockup-JTBQKFC"
+        },
+        {
+            "filename": "coinonehome024.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome024-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 79467,
+            "dimensions": [
+                853,
+                533
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coinonehome022.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/coinonehome022-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 50828,
+            "dimensions": [
+                853,
+                533
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/market-coin.json",
+                    "name": "Market Coin"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 13704,
+            "dimensions": [
+                638,
+                165
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Check.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Check.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 182063,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "coinonehome030.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome030-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61564,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-standing-at-office-G224HES"
+        },
+        {
+            "filename": "coinonehome029.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome029-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 67556,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-standing-at-office-G224HES"
+        },
+        {
+            "filename": "coinonehome028.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome028-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 54804,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-standing-at-office-G224HES"
+        },
+        {
+            "filename": "coinonehome027.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome027-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 46659,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-executives-standing-together-in-the-office-33R53LD"
+        },
+        {
+            "filename": "coinonehome022.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome022-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 49195,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-executives-standing-together-in-the-office-33R53LD"
+        },
+        {
+            "filename": "coinonehome025.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome025-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 40954,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-executives-standing-together-in-the-office-33R53LD"
+        },
+        {
+            "filename": "coinonehome023.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome023-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 43382,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-executives-standing-together-in-the-office-33R53LD"
+        },
+        {
+            "filename": "Group-281.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-281.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2274,
+            "dimensions": [
+                153,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-279.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-279.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2099,
+            "dimensions": [
+                153,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-278.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-278.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2280,
+            "dimensions": [
+                153,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-277.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-277.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2109,
+            "dimensions": [
+                153,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-275.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-275.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1937,
+            "dimensions": [
+                153,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Group-299.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-299-800x462.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 68767,
+            "dimensions": [
+                1211,
+                699
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-web-wireframe-kit-2QGAUP8"
+        },
+        {
+            "filename": "Id.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Id.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 155499,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Portfolio.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Portfolio.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 142906,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Group-273.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-273.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 68005,
+            "dimensions": [
+                719,
+                944
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/xkdx-clean-crypto-admin-dashboard-template-GA4SLAD"
+        },
+        {
+            "filename": "coinonehome042.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome042-800x536.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 130661,
+            "dimensions": [
+                1209,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/buiding-website-illustration-kit-JUXRM8L"
+        },
+        {
+            "filename": "coinonehome029.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome029-800x655.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 304328,
+            "dimensions": [
+                1250,
+                1023
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ipad-pro-2018-mockup-T76TMGH"
+        },
+        {
+            "filename": "Group-551-2.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-551-2-800x463.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 101501,
+            "dimensions": [
+                1209,
+                699
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/progress-review-graphic-chart-website-header-C76N7Q5"
+        },
+        {
+            "filename": "Chat.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Chat.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 189875,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "coinonehome024.jpg",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome024-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 53401,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-executives-standing-together-in-the-office-33R53LD"
+        },
+        {
+            "filename": "coinonehome041.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome041.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 196306,
+            "dimensions": [
+                800,
+                1371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-mockup-JTBQKFC"
+        },
+        {
+            "filename": "Group-551-1.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Group-551-1-800x463.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 137154,
+            "dimensions": [
+                1209,
+                699
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-brainstorm-website-header-illustration-3FDV93A"
+        },
+        {
+            "filename": "coinonehome039.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome039-800x1182.png",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 153271,
+            "dimensions": [
+                1000,
+                1478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/phone-mockup-9JK85L6"
+        },
+        {
+            "filename": "Mail.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Mail.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 142241,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Bitcoin.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/07\/Bitcoin.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 188554,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/frosted-glass-icons-set-69E4TGX"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/Logo-800x207.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 35119,
+            "dimensions": [
+                1276,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/community-letter-c-logo-template-LP6S4F"
+        },
+        {
+            "filename": "coinonehome030.png",
+            "thumbnail_url": "http:\/\/demo2.strongtheme.com\/coinone\/wp-content\/uploads\/sites\/5\/2021\/08\/coinonehome030.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22954,
+            "dimensions": [
+                600,
+                292
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

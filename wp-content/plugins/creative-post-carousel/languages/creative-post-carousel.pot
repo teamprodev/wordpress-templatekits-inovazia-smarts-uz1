@@ -1,0 +1,1103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Creative Post Carousel\n"
+"POT-Creation-Date: 2022-11-09 09:29+0600\n"
+"PO-Revision-Date: 2022-11-09 09:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: creative-post-carousel.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: bwdbpc-blogpost-boots.php:56 creative-post-carousel.php:66
+#: creative-post-carousel.php:81 page-settings/bwdbpc-blogpost-manager.php:21
+#: widgets/bwdbpc-blogpost-widgets.php:16
+msgid "Creative Post Carousel"
+msgstr ""
+
+#: creative-post-carousel.php:65 creative-post-carousel.php:80
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: creative-post-carousel.php:67
+msgid "Elementor"
+msgstr ""
+
+#: creative-post-carousel.php:71 creative-post-carousel.php:86
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: creative-post-carousel.php:82
+msgid "PHP"
+msgstr ""
+
+#: page-settings/bwdbpc-blogpost-manager.php:32
+msgid "Settings"
+msgstr ""
+
+#: page-settings/bwdbpc-blogpost-manager.php:40
+#: page-settings/bwdbpc-blogpost-manager.php:42
+#: widgets/bwdbpc-blogpost-widgets.php:115
+#: widgets/bwdbpc-blogpost-widgets.php:357
+#: widgets/bwdbpc-blogpost-widgets.php:538
+#: widgets/bwdbpc-blogpost-widgets.php:698
+msgid "Title"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:12
+msgid "bwdbpc-blogpost-carousel"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:34
+msgid "All Style Here"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:43
+msgid "Select Style"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:47
+msgid "Style 1"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:48
+msgid "Style 2"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:49
+msgid "Style 3"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:50
+msgid "Style 4"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:51
+msgid "Style 5"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:52
+msgid "Style 6"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:53
+msgid "Style 7"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:54
+msgid "Style 8"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:55
+msgid "Style 9"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:56
+msgid "Style 10"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:57
+msgid "Style 11"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:58
+msgid "Style 12"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:59
+msgid "Style 13"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:60
+msgid "Style 14"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:61
+msgid "Style 15"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:62
+msgid "Style 16"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:63
+msgid "Style 17"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:64
+msgid "Style 18"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:65
+msgid "Style 19"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:66
+msgid "Style 20"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:67
+msgid "Style 21"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:68
+msgid "Style 22"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:69
+msgid "Style 23"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:70
+msgid "Style 24"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:71
+msgid "Style 25"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:72
+msgid "Style 26"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:73
+msgid "Style 27"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:74
+msgid "Style 28"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:75
+msgid "Style 29"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:76
+msgid "Style 30"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:77
+msgid "Style 31"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:78
+msgid "Style 32"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:79
+msgid "Style 33"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:80
+msgid "Style 34"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:81
+msgid "Style 35"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:82
+msgid "Style 36"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:83
+msgid "Style 37"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:84
+msgid "Style 38"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:85
+msgid "Style 39"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:86
+msgid "Style 40"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:87
+msgid "Style 41"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:94
+msgid "Blog Type"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:98
+msgid "Post"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:99
+msgid "Page"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:108
+msgid "Post Settings"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:117
+#: widgets/bwdbpc-blogpost-widgets.php:149
+#: widgets/bwdbpc-blogpost-widgets.php:187
+#: widgets/bwdbpc-blogpost-widgets.php:196
+#: widgets/bwdbpc-blogpost-widgets.php:222
+#: widgets/bwdbpc-blogpost-widgets.php:315
+#: widgets/bwdbpc-blogpost-widgets.php:336
+#: widgets/bwdbpc-blogpost-widgets.php:570
+#: widgets/bwdbpc-blogpost-widgets.php:614
+#: widgets/bwdbpc-blogpost-widgets.php:2099
+#: widgets/bwdbpc-blogpost-widgets.php:2112
+#: widgets/bwdbpc-blogpost-widgets.php:2125
+#: widgets/bwdbpc-blogpost-widgets.php:2138
+#: widgets/bwdbpc-blogpost-widgets.php:2205
+#: widgets/bwdbpc-blogpost-widgets.php:2317
+msgid "Show"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:118
+#: widgets/bwdbpc-blogpost-widgets.php:150
+#: widgets/bwdbpc-blogpost-widgets.php:197
+#: widgets/bwdbpc-blogpost-widgets.php:223
+#: widgets/bwdbpc-blogpost-widgets.php:316
+#: widgets/bwdbpc-blogpost-widgets.php:337
+#: widgets/bwdbpc-blogpost-widgets.php:571
+#: widgets/bwdbpc-blogpost-widgets.php:615
+#: widgets/bwdbpc-blogpost-widgets.php:2100
+#: widgets/bwdbpc-blogpost-widgets.php:2113
+#: widgets/bwdbpc-blogpost-widgets.php:2126
+#: widgets/bwdbpc-blogpost-widgets.php:2139
+#: widgets/bwdbpc-blogpost-widgets.php:2206
+#: widgets/bwdbpc-blogpost-widgets.php:2318
+msgid "Hide"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:126
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:130
+msgid "Div"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:131
+msgid "H1"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:132
+msgid "H2"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:133
+msgid "H3"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:134
+msgid "H4"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:135
+msgid "H5"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:136
+msgid "H6"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:137
+msgid "p"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:147
+#: widgets/bwdbpc-blogpost-widgets.php:820
+msgid "Description"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:158
+msgid "Word Length"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:169
+msgid "Word Trim Indicator"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:171
+msgid "......"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:181
+msgid "All Taxo Icons"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:186
+#: widgets/bwdbpc-blogpost-widgets.php:236
+#: widgets/bwdbpc-blogpost-widgets.php:377
+msgid "None"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:194
+msgid "Publish Date"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:206
+msgid "Date Format"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:208
+#: widgets/bwdbpc-blogpost-widgets.php:209
+msgid "j M y"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:220
+#: widgets/bwdbpc-blogpost-widgets.php:537
+#: widgets/bwdbpc-blogpost-widgets.php:1175
+msgid "Author"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:232
+msgid "Author Indicator"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:237
+msgid "Gravatar"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:238
+msgid "Author Icon"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:248
+msgid "Gravader Size"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:273
+#: widgets/bwdbpc-blogpost-widgets.php:350
+#: widgets/bwdbpc-blogpost-widgets.php:398
+#: widgets/bwdbpc-blogpost-widgets.php:413
+#: widgets/bwdbpc-blogpost-widgets.php:2219
+msgid "Icon"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:288
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:313
+#: widgets/bwdbpc-blogpost-widgets.php:1445
+msgid "Comment"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:327
+#: widgets/bwdbpc-blogpost-widgets.php:334
+#: widgets/bwdbpc-blogpost-widgets.php:949
+msgid "Button"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:345
+msgid "Button Type"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:349
+msgid "Text Icon"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:359
+msgid "Read More"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:372
+msgid "Icon Align"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:381
+#: widgets/bwdbpc-blogpost-widgets.php:655
+#: widgets/bwdbpc-blogpost-widgets.php:3143
+msgid "Left"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:385
+#: widgets/bwdbpc-blogpost-widgets.php:663
+#: widgets/bwdbpc-blogpost-widgets.php:3151
+msgid "Right"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:427
+msgid "Open in new window"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:429
+msgid "Yes"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:430
+msgid "No"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:443
+msgid "Post Query"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:457
+msgid "Choose Author"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:465
+#: widgets/bwdbpc-blogpost-widgets.php:540
+#: widgets/bwdbpc-blogpost-widgets.php:1309
+msgid "Date"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:469
+#: widgets/bwdbpc-blogpost-widgets.php:497
+#: widgets/bwdbpc-blogpost-widgets.php:536
+msgid "All"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:470
+msgid "Today"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:471
+msgid "Current Month"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:472
+msgid "Coustom"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:479
+msgid "Type 4 Digit Year Only"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:481
+msgid "2022"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:482
+msgid "Type Your Year Only"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:492
+msgid "Select Month"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:498
+msgid "Jan"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:499
+msgid "Feb"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:500
+msgid "Mar"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:501
+msgid "Apr"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:502
+msgid "May"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:503
+msgid "Jun"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:504
+msgid "Jul"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:505
+msgid "Aug"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:506
+msgid "Sep"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:507
+msgid "Oct"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:508
+msgid "Nov"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:509
+msgid "Dec"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:519
+msgid "Day Only (Date)"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:522
+#: widgets/bwdbpc-blogpost-widgets.php:523
+#: widgets/bwdbpc-blogpost-widgets.php:562
+msgid "00"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:532
+msgid "Order By"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:539
+msgid "ID"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:547
+msgid "Order"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:551
+msgid "Descending"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:552
+msgid "Ascending"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:559
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:568
+#: widgets/bwdbpc-blogpost-widgets.php:1718
+msgid "Category"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:579
+msgid "Show Status"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:583
+msgid "Show Multiple Category"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:584
+msgid "Show Main Category"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:603
+msgid "Filter Categories"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:612
+msgid "Tag"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:632
+msgid "Filter Tags"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:643
+msgid "Content Style"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:650
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:659
+#: widgets/bwdbpc-blogpost-widgets.php:3147
+msgid "Center"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:673
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:684
+msgid "Taxo Gap"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:712
+#: widgets/bwdbpc-blogpost-widgets.php:834
+#: widgets/bwdbpc-blogpost-widgets.php:961
+#: widgets/bwdbpc-blogpost-widgets.php:1189
+#: widgets/bwdbpc-blogpost-widgets.php:1323
+#: widgets/bwdbpc-blogpost-widgets.php:1459
+#: widgets/bwdbpc-blogpost-widgets.php:1595
+#: widgets/bwdbpc-blogpost-widgets.php:1732
+#: widgets/bwdbpc-blogpost-widgets.php:1866
+#: widgets/bwdbpc-blogpost-widgets.php:2371
+#: widgets/bwdbpc-blogpost-widgets.php:3174
+msgid "Normal"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:726
+#: widgets/bwdbpc-blogpost-widgets.php:848
+#: widgets/bwdbpc-blogpost-widgets.php:975
+#: widgets/bwdbpc-blogpost-widgets.php:1203
+#: widgets/bwdbpc-blogpost-widgets.php:1337
+#: widgets/bwdbpc-blogpost-widgets.php:1473
+#: widgets/bwdbpc-blogpost-widgets.php:1609
+#: widgets/bwdbpc-blogpost-widgets.php:1746
+#: widgets/bwdbpc-blogpost-widgets.php:2379
+#: widgets/bwdbpc-blogpost-widgets.php:2700
+#: widgets/bwdbpc-blogpost-widgets.php:3182
+#: widgets/bwdbpc-blogpost-widgets.php:3314
+#: widgets/bwdbpc-blogpost-widgets.php:3445
+msgid "Color"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:736
+#: widgets/bwdbpc-blogpost-widgets.php:771
+#: widgets/bwdbpc-blogpost-widgets.php:858
+#: widgets/bwdbpc-blogpost-widgets.php:893
+#: widgets/bwdbpc-blogpost-widgets.php:985
+#: widgets/bwdbpc-blogpost-widgets.php:1039
+#: widgets/bwdbpc-blogpost-widgets.php:1214
+#: widgets/bwdbpc-blogpost-widgets.php:1261
+#: widgets/bwdbpc-blogpost-widgets.php:1348
+#: widgets/bwdbpc-blogpost-widgets.php:1396
+#: widgets/bwdbpc-blogpost-widgets.php:1484
+#: widgets/bwdbpc-blogpost-widgets.php:1532
+#: widgets/bwdbpc-blogpost-widgets.php:1620
+#: widgets/bwdbpc-blogpost-widgets.php:1668
+#: widgets/bwdbpc-blogpost-widgets.php:1757
+#: widgets/bwdbpc-blogpost-widgets.php:1805
+#: widgets/bwdbpc-blogpost-widgets.php:1873
+#: widgets/bwdbpc-blogpost-widgets.php:1884
+#: widgets/bwdbpc-blogpost-widgets.php:1949
+#: widgets/bwdbpc-blogpost-widgets.php:1960
+#: widgets/bwdbpc-blogpost-widgets.php:2392
+#: widgets/bwdbpc-blogpost-widgets.php:2713
+#: widgets/bwdbpc-blogpost-widgets.php:3198
+#: widgets/bwdbpc-blogpost-widgets.php:3330
+#: widgets/bwdbpc-blogpost-widgets.php:3461
+msgid "Background"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:747
+#: widgets/bwdbpc-blogpost-widgets.php:869
+#: widgets/bwdbpc-blogpost-widgets.php:1015
+#: widgets/bwdbpc-blogpost-widgets.php:1236
+#: widgets/bwdbpc-blogpost-widgets.php:1371
+#: widgets/bwdbpc-blogpost-widgets.php:1507
+#: widgets/bwdbpc-blogpost-widgets.php:1643
+#: widgets/bwdbpc-blogpost-widgets.php:1780
+#: widgets/bwdbpc-blogpost-widgets.php:1942
+#: widgets/bwdbpc-blogpost-widgets.php:2692
+#: widgets/bwdbpc-blogpost-widgets.php:3437
+msgid "Hover"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:761
+#: widgets/bwdbpc-blogpost-widgets.php:883
+#: widgets/bwdbpc-blogpost-widgets.php:1029
+#: widgets/bwdbpc-blogpost-widgets.php:1250
+#: widgets/bwdbpc-blogpost-widgets.php:1385
+#: widgets/bwdbpc-blogpost-widgets.php:1521
+#: widgets/bwdbpc-blogpost-widgets.php:1657
+#: widgets/bwdbpc-blogpost-widgets.php:1794
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:784
+#: widgets/bwdbpc-blogpost-widgets.php:906
+#: widgets/bwdbpc-blogpost-widgets.php:1003
+#: widgets/bwdbpc-blogpost-widgets.php:1057
+#: widgets/bwdbpc-blogpost-widgets.php:1224
+#: widgets/bwdbpc-blogpost-widgets.php:1271
+#: widgets/bwdbpc-blogpost-widgets.php:1359
+#: widgets/bwdbpc-blogpost-widgets.php:1407
+#: widgets/bwdbpc-blogpost-widgets.php:1495
+#: widgets/bwdbpc-blogpost-widgets.php:1543
+#: widgets/bwdbpc-blogpost-widgets.php:1631
+#: widgets/bwdbpc-blogpost-widgets.php:1679
+#: widgets/bwdbpc-blogpost-widgets.php:1768
+#: widgets/bwdbpc-blogpost-widgets.php:1816
+#: widgets/bwdbpc-blogpost-widgets.php:1908
+#: widgets/bwdbpc-blogpost-widgets.php:1984
+#: widgets/bwdbpc-blogpost-widgets.php:2499
+#: widgets/bwdbpc-blogpost-widgets.php:2816
+#: widgets/bwdbpc-blogpost-widgets.php:3278
+#: widgets/bwdbpc-blogpost-widgets.php:3410
+#: widgets/bwdbpc-blogpost-widgets.php:3541
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:796
+#: widgets/bwdbpc-blogpost-widgets.php:918
+#: widgets/bwdbpc-blogpost-widgets.php:1071
+#: widgets/bwdbpc-blogpost-widgets.php:1285
+#: widgets/bwdbpc-blogpost-widgets.php:1421
+#: widgets/bwdbpc-blogpost-widgets.php:1557
+#: widgets/bwdbpc-blogpost-widgets.php:1694
+#: widgets/bwdbpc-blogpost-widgets.php:1830
+msgid "Padding"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:807
+#: widgets/bwdbpc-blogpost-widgets.php:929
+#: widgets/bwdbpc-blogpost-widgets.php:1083
+#: widgets/bwdbpc-blogpost-widgets.php:1296
+#: widgets/bwdbpc-blogpost-widgets.php:1432
+#: widgets/bwdbpc-blogpost-widgets.php:1568
+#: widgets/bwdbpc-blogpost-widgets.php:1705
+#: widgets/bwdbpc-blogpost-widgets.php:1841
+#: widgets/bwdbpc-blogpost-widgets.php:1919
+msgid "Margin"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:942
+msgid "Button Style"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:996
+#: widgets/bwdbpc-blogpost-widgets.php:1050
+#: widgets/bwdbpc-blogpost-widgets.php:1901
+#: widgets/bwdbpc-blogpost-widgets.php:1977
+#: widgets/bwdbpc-blogpost-widgets.php:2490
+#: widgets/bwdbpc-blogpost-widgets.php:2807
+#: widgets/bwdbpc-blogpost-widgets.php:3269
+#: widgets/bwdbpc-blogpost-widgets.php:3401
+#: widgets/bwdbpc-blogpost-widgets.php:3532
+msgid "Border"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1094
+msgid "Icon Margin"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1108
+msgid "Image Style"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1115
+msgid "Thumbnail Size"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1131
+msgid "Image Overly"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1141
+msgid "Icon Overly"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1154
+msgid "Image Radius"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1166
+#: widgets/bwdbpc-blogpost-widgets.php:1893
+#: widgets/bwdbpc-blogpost-widgets.php:1969
+#: widgets/bwdbpc-blogpost-widgets.php:2513
+#: widgets/bwdbpc-blogpost-widgets.php:2830
+#: widgets/bwdbpc-blogpost-widgets.php:3292
+#: widgets/bwdbpc-blogpost-widgets.php:3424
+#: widgets/bwdbpc-blogpost-widgets.php:3555
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1581
+msgid "Tags"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1854
+msgid "Box Style"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:1930
+msgid "Box Padding"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2001
+msgid "Carousel Controls"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2009
+msgid "Custom Id"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2011
+msgid "post-id"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2019
+msgid "Item Gap"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2032
+msgid "Responsive Device"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2034
+#: widgets/bwdbpc-blogpost-widgets.php:2085
+#: widgets/bwdbpc-blogpost-widgets.php:2190
+#: widgets/bwdbpc-blogpost-widgets.php:2302
+#: widgets/bwdbpc-blogpost-widgets.php:2556
+#: widgets/bwdbpc-blogpost-widgets.php:2873
+#: widgets/bwdbpc-blogpost-widgets.php:3028
+msgid "Default"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2035
+#: widgets/bwdbpc-blogpost-widgets.php:2086
+#: widgets/bwdbpc-blogpost-widgets.php:2191
+#: widgets/bwdbpc-blogpost-widgets.php:2303
+#: widgets/bwdbpc-blogpost-widgets.php:2557
+#: widgets/bwdbpc-blogpost-widgets.php:2874
+#: widgets/bwdbpc-blogpost-widgets.php:3029
+msgid "Custom"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2045
+msgid "Desktop View"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2056
+msgid "Tablet View"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2067
+msgid "Mobile View"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2083
+msgid "More Options"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2097
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2110
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2123
+msgid "Hover Pause"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2136
+msgid "Center Mode"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2148
+msgid "Autoplay TimeOut (ms)"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2160
+msgid "Autoplay Speeds (ms)"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2172
+msgid "Stage Padding (px)"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2188
+#: widgets/bwdbpc-blogpost-widgets.php:2351
+msgid "Navigation :: Arrow"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2203
+msgid "Arrow Navigation ?"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2215
+msgid "Arrow Type"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2220
+msgid "Text"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2231
+msgid "Previous Icon"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2247
+msgid "Next Icon"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2263
+msgid "Previous Text"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2265
+msgid "Prev"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2279
+msgid "Next Text"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2281
+msgid "Next"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2300
+#: widgets/bwdbpc-blogpost-widgets.php:3014
+msgid "Navigation :: Dots"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2315
+msgid "Active Dots ?"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2327
+msgid "Type"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2331
+msgid "Dots"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2332
+msgid "Numbers"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2402
+#: widgets/bwdbpc-blogpost-widgets.php:2723
+msgid "Size"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2441
+#: widgets/bwdbpc-blogpost-widgets.php:2759
+#: widgets/bwdbpc-blogpost-widgets.php:3220
+#: widgets/bwdbpc-blogpost-widgets.php:3352
+#: widgets/bwdbpc-blogpost-widgets.php:3483
+msgid "Width"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2465
+#: widgets/bwdbpc-blogpost-widgets.php:2782
+#: widgets/bwdbpc-blogpost-widgets.php:3244
+#: widgets/bwdbpc-blogpost-widgets.php:3376
+#: widgets/bwdbpc-blogpost-widgets.php:3507
+msgid "Height"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2522
+#: widgets/bwdbpc-blogpost-widgets.php:2839
+msgid "Arrow Opacity"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2537
+#: widgets/bwdbpc-blogpost-widgets.php:2854
+msgid "Visibility"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2540
+#: widgets/bwdbpc-blogpost-widgets.php:2857
+msgid "Visible"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2541
+#: widgets/bwdbpc-blogpost-widgets.php:2858
+msgid "Hidden"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2554
+#: widgets/bwdbpc-blogpost-widgets.php:2871
+#: widgets/bwdbpc-blogpost-widgets.php:3026
+msgid "Position"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2569
+#: widgets/bwdbpc-blogpost-widgets.php:2886
+msgid "Left Arrow"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2579
+#: widgets/bwdbpc-blogpost-widgets.php:2638
+#: widgets/bwdbpc-blogpost-widgets.php:2896
+#: widgets/bwdbpc-blogpost-widgets.php:2955
+#: widgets/bwdbpc-blogpost-widgets.php:3041
+msgid "Vertical"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2603
+#: widgets/bwdbpc-blogpost-widgets.php:2662
+#: widgets/bwdbpc-blogpost-widgets.php:2920
+#: widgets/bwdbpc-blogpost-widgets.php:2979
+#: widgets/bwdbpc-blogpost-widgets.php:3065
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:2628
+#: widgets/bwdbpc-blogpost-widgets.php:2945
+msgid "Right Arrow"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:3091
+msgid "Vertical Gap"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:3115
+msgid "Dots Gap"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:3139
+msgid "Alignment"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:3306
+msgid "Active"
+msgstr ""
+
+#: widgets/bwdbpc-blogpost-widgets.php:3697
+#: widgets/bwdbpc-blogpost-widgets.php:3711
+msgid "No Thumbnail"
+msgstr ""
+
+#: widgets/templates/style1.php:45 widgets/templates/style10.php:38
+#: widgets/templates/style11.php:53 widgets/templates/style12.php:56
+#: widgets/templates/style13.php:44 widgets/templates/style14.php:27
+#: widgets/templates/style15.php:56 widgets/templates/style16.php:28
+#: widgets/templates/style17.php:44 widgets/templates/style18.php:64
+#: widgets/templates/style19.php:72 widgets/templates/style2.php:46
+#: widgets/templates/style20.php:34 widgets/templates/style21.php:34
+#: widgets/templates/style22.php:34 widgets/templates/style23.php:53
+#: widgets/templates/style24.php:52 widgets/templates/style25.php:50
+#: widgets/templates/style26.php:33 widgets/templates/style27.php:31
+#: widgets/templates/style28.php:30 widgets/templates/style29.php:30
+#: widgets/templates/style3.php:41 widgets/templates/style3.php:105
+#: widgets/templates/style30.php:35 widgets/templates/style31.php:35
+#: widgets/templates/style32.php:39 widgets/templates/style33.php:39
+#: widgets/templates/style34.php:39 widgets/templates/style35.php:41
+#: widgets/templates/style36.php:38 widgets/templates/style37.php:38
+#: widgets/templates/style38.php:38 widgets/templates/style39.php:39
+#: widgets/templates/style4.php:65 widgets/templates/style40.php:39
+#: widgets/templates/style41.php:39 widgets/templates/style5.php:59
+#: widgets/templates/style6.php:60 widgets/templates/style7.php:55
+#: widgets/templates/style8.php:34 widgets/templates/style9.php:28
+msgid "Comment ("
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://bestwpdeveloper.com/blog-post"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Creative Post Carousel plugin for Elementor with 25+ responsive and modern "
+"Blog Post designs."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Best WP Developer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bestwpdeveloper.com/"
+msgstr ""

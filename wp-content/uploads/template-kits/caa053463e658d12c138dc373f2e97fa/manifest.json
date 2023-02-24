@@ -1,0 +1,3029 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Dronix",
+    "page_builder": "elementor",
+    "kit_version": "1.1.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header-1",
+            "screenshot": "screenshots\/header-1.png",
+            "source": "templates\/header-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/header-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer-1",
+            "screenshot": "screenshots\/footer-1.png",
+            "source": "templates\/footer-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/footer-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home-1",
+            "screenshot": "screenshots\/home-1.png",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home-2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home-3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-1",
+            "screenshot": "screenshots\/about-1.png",
+            "source": "templates\/about-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/about-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About-2",
+            "screenshot": "screenshots\/about-2.png",
+            "source": "templates\/about-2.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/about-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-1",
+            "screenshot": "screenshots\/service-1.jpg",
+            "source": "templates\/service-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/service-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service-2",
+            "screenshot": "screenshots\/service-2.jpg",
+            "source": "templates\/service-2.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/service-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "How it Works",
+            "screenshot": "screenshots\/how-it-works.png",
+            "source": "templates\/how-it-works.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/how-it-works\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-1",
+            "screenshot": "screenshots\/contact-1.png",
+            "source": "templates\/contact-1.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/contact-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-2",
+            "screenshot": "screenshots\/contact-2.png",
+            "source": "templates\/contact-2.json",
+            "preview_url": "https:\/\/dronix.radiantthemes.com\/template-kit\/contact-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.5",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "WPForms Widget For Elementor Page Builder",
+            "version": "1.1.0",
+            "file": "ht-wpform\/wpform-widget-elementor.php",
+            "author": "HasTheme"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.1.2",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        }
+    ],
+    "images": [
+        {
+            "filename": "white-logo.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/white-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-1.json",
+                    "name": "Header-1"
+                },
+                {
+                    "source": "templates\/footer-1.json",
+                    "name": "Footer-1"
+                }
+            ],
+            "filesize": 1854,
+            "dimensions": [
+                86,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "divider.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/divider.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-1.json",
+                    "name": "Footer-1"
+                }
+            ],
+            "filesize": 209,
+            "dimensions": [
+                441,
+                1
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-bg.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/banner-bg-800x266.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 7643,
+            "dimensions": [
+                1920,
+                638
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "demo2-banner-img.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-banner-img-800x448.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 19566,
+            "dimensions": [
+                855,
+                479
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/smartphone-users-chatting-online_6976385.htm"
+        },
+        {
+            "filename": "1-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/1-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1012,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/2-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 783,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/3-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 778,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "4-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/4-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1209,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "5-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/5-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 851,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "6-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/6-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1070,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "7-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/7-black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 705,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "demo2-img1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-img1-800x316.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 28093,
+            "dimensions": [
+                1016,
+                401
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/freepik-stories.netlify.app\/illustration\/group-chat\/pana"
+        },
+        {
+            "filename": "icon1-3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1707,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon2-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1314,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon3-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1607,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon4-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1455,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon5-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon5-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1836,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon6-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1418,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blue-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/blue-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1294,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "black-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/black-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1510,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "green-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/green-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1282,
+            "dimensions": [
+                51,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "demo2-img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 12642,
+            "dimensions": [
+                490,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-with-gadgets-isolated-white-background_4155569.htm#page=3&query=chat+mobile+application&position=47"
+        },
+        {
+            "filename": "26x26-icon1-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/26x26-icon1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 696,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "26x26-icon2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/26x26-icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 337,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "56x56-icon3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/56x56-icon3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1243,
+            "dimensions": [
+                56,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "56x56-icon-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/56x56-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1195,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/optimization_2361678?term=development&page=1&position=25"
+        },
+        {
+            "filename": "56x56-icon2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/56x56-icon2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 647,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "demo2-counter-bg.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-counter-bg-800x132.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 2196,
+            "dimensions": [
+                1920,
+                317
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 4796,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-people-avatars_7065592.htm"
+        },
+        {
+            "filename": "team2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 4452,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 5255,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/team4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 5851,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "demo2-play-store-btn.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-play-store-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1508,
+            "dimensions": [
+                178,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.google.com\/search?q=google+play+store+button&source=lnms&tbm=isch&sa=X&ved=2ahUKEwitu8y709b0AhXlSmwGHcnbCoIQ_AUoAXoECAEQAw&biw=1366&bih=600&dpr=1#imgrc=pXrH8LP-volu_M"
+        },
+        {
+            "filename": "demo2-app-store-btn.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-app-store-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 898,
+            "dimensions": [
+                178,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.google.com\/search?q=google+play+store+button&source=lnms&tbm=isch&sa=X&ved=2ahUKEwitu8y709b0AhXlSmwGHcnbCoIQ_AUoAXoECAEQAw&biw=1366&bih=600&dpr=1#imgrc=pXrH8LP-volu_M"
+        },
+        {
+            "filename": "two-mobile.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/two-mobile.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 20491,
+            "dimensions": [
+                515,
+                601
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/messenger-app-mobile-flat-style_2022122.htm#page=2&query=chat+mobile+application&position=29"
+        },
+        {
+            "filename": "demo2-circle.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/demo2-circle.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 3032,
+            "dimensions": [
+                278,
+                278
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 2078,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 2231,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/07\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home-1"
+                }
+            ],
+            "filesize": 1978,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "bg.jpg",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/bg-600x204.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 49279,
+            "dimensions": [
+                1920,
+                654
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 11573,
+            "dimensions": [
+                270,
+                1325
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-img.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/banner-img-600x346.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 23635,
+            "dimensions": [
+                944,
+                545
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/work-chat-concept-illustration_7118069.htm#page=1&query=chat&position=23"
+        },
+        {
+            "filename": "56x56-icon-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/56x56-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 1195,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/optimization_2361678?term=development&page=1&position=25"
+        },
+        {
+            "filename": "56x56-icon2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/56x56-icon2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 647,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/domain_2235607?term=development&page=1&position=33"
+        },
+        {
+            "filename": "56x56-icon3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/56x56-icon3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 1243,
+            "dimensions": [
+                56,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "56x56-icon4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/56x56-icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 641,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/conversation_942802?term=chat&page=1&position=31"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 2721,
+            "dimensions": [
+                77,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "piechart.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/piechart.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 6148,
+            "dimensions": [
+                275,
+                283
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line.jpg",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/line-600x1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 1004,
+            "dimensions": [
+                1266,
+                2
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/img-600x565.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 16008,
+            "dimensions": [
+                643,
+                606
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-with-gadgets-isolated-white-background_4155569.htm#page=3&query=chat+mobile+application&position=47"
+        },
+        {
+            "filename": "counter-bg.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/counter-bg-600x121.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 2376,
+            "dimensions": [
+                1266,
+                256
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2-2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon2-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 898,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "98x98-service1-icon2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/98x98-service1-icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 938,
+            "dimensions": [
+                98,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6-2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon6-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 861,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon5-2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon5-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 983,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon1-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 971,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4-2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon4-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 887,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mobile.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/mobile.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 36308,
+            "dimensions": [
+                436,
+                501
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/messenger-app-mobile-flat-style_2022122.htm#page=2&query=chat+mobile+application&position=29"
+        },
+        {
+            "filename": "img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/img2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                }
+            ],
+            "filesize": 18808,
+            "dimensions": [
+                597,
+                554
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/young-people-with-hashtag-symbol_4202146.htm"
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                }
+            ],
+            "filesize": 1978,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                }
+            ],
+            "filesize": 2231,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                }
+            ],
+            "filesize": 2078,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-collection-people-avatars_1258306.htm#page=1&query=avatar&position=31"
+        },
+        {
+            "filename": "men.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/men.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 9977,
+            "dimensions": [
+                289,
+                397
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/young-people-with-hashtag-symbol_4202146.htm"
+        },
+        {
+            "filename": "demo2-play-store-btn.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/demo2-play-store-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 1508,
+            "dimensions": [
+                178,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.google.com\/search?q=google+play+store+button&source=lnms&tbm=isch&sa=X&ved=2ahUKEwitu8y709b0AhXlSmwGHcnbCoIQ_AUoAXoECAEQAw&biw=1366&bih=600&dpr=1#imgrc=d7xg-2UDy-24qM"
+        },
+        {
+            "filename": "demo2-app-store-btn.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/demo2-app-store-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home-2"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 898,
+            "dimensions": [
+                178,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.google.com\/search?q=google+play+store+button&source=lnms&tbm=isch&sa=X&ved=2ahUKEwitu8y709b0AhXlSmwGHcnbCoIQ_AUoAXoECAEQAw&biw=1366&bih=600&dpr=1#imgrc=d7xg-2UDy-24qM&imgdii=zzhkFcFNf24UDM"
+        },
+        {
+            "filename": "homepage3-banner2-bg-2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/homepage3-banner2-bg-2-600x229.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 14168,
+            "dimensions": [
+                1600,
+                610
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homepage3-banner1-mobile.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/homepage3-banner1-mobile.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 18026,
+            "dimensions": [
+                378,
+                564
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/messenger-app-mobile-flat-style_2022122.htm#page=2&query=chat+mobile+application&position=29"
+        },
+        {
+            "filename": "img-2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 22501,
+            "dimensions": [
+                582,
+                396
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/group-chat-concept-illustration_7171522.htm#page=1&query=chat&position=0"
+        },
+        {
+            "filename": "icon7.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 826,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3-4-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon3-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 767,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6-4-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon6-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 701,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homepage3-features-bg2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/homepage3-features-bg2-600x270.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 2862,
+            "dimensions": [
+                1600,
+                720
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6-3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon6-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 845,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4-3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon4-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 865,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3-3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon3-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 901,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2-3-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon2-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 867,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon1-2-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon1-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 979,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/bg-600x194.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 3560,
+            "dimensions": [
+                1110,
+                359
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "two-men.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/two-men.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 9750,
+            "dimensions": [
+                402,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-with-gadgets-isolated-white-background_4155569.htm#page=3&query=chat+mobile+application&position=47"
+        },
+        {
+            "filename": "bg2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/bg2-600x65.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home-3"
+                }
+            ],
+            "filesize": 1635,
+            "dimensions": [
+                1600,
+                173
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-fot-all-inner-pages.jpg",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/banner-fot-all-inner-pages-600x86.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1.json",
+                    "name": "Contact-1"
+                },
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 32678,
+            "dimensions": [
+                1920,
+                274
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-shape1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about-shape1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 3003,
+            "dimensions": [
+                115,
+                437
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-shape2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about-shape2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 7407,
+            "dimensions": [
+                231,
+                1046
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-img1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about-img1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 54042,
+            "dimensions": [
+                572,
+                540
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/young-people-with-hashtag-symbol_4202146.htm"
+        },
+        {
+            "filename": "about-img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about-img2-600x559.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                }
+            ],
+            "filesize": 86035,
+            "dimensions": [
+                637,
+                594
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/videocalling-with-therapist_7683469.htm#page=2&query=chat&position=11"
+        },
+        {
+            "filename": "team1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 4796,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-people-avatars_7065592.htm"
+        },
+        {
+            "filename": "team2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 4452,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5255,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                },
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5851,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "about-img3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about-img3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1.json",
+                    "name": "About-1"
+                }
+            ],
+            "filesize": 34831,
+            "dimensions": [
+                455,
+                331
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/contact-us-concept-landing-page_4663671.htm#page=1&query=support&position=1"
+        },
+        {
+            "filename": "service-icon2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 374,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon7.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 173,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 319,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about2-img1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about2-img1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                }
+            ],
+            "filesize": 25833,
+            "dimensions": [
+                511,
+                467
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-working-office_4985722.htm#page=1&query=pack-people-working-office&position=8"
+        },
+        {
+            "filename": "about2-img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/about2-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 12767,
+            "dimensions": [
+                507,
+                563
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-working-office_4985722.htm#page=1&query=pack-people-working-office&position=8"
+        },
+        {
+            "filename": "icon1-3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1707,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/1-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1012,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/colorful-gradient-abstract-logo_6758040.htm#page=1&query=colorful-gradient-abstract-logo&position=0"
+        },
+        {
+            "filename": "2-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/2-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 783,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-logo-two-versions_7088660.htm#page=1&query=abstract-logo-two-versions&position=5"
+        },
+        {
+            "filename": "3-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/3-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 778,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-technology-logo-collection_4403604.htm"
+        },
+        {
+            "filename": "4-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/4-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1209,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-company-logo-design-ideas_3462566.htm#page=2&query=logo%20icon&position=3"
+        },
+        {
+            "filename": "5-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/5-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 851,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-technology-logo-collection_4403604.htm"
+        },
+        {
+            "filename": "6-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/6-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1070,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "7-black.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/7-black.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 705,
+            "dimensions": [
+                100,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-technology-logo-collection_4403604.htm"
+        },
+        {
+            "filename": "icon2-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon2-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2.json",
+                    "name": "About-2"
+                },
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1314,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon8.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon8.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 274,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 324,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon6.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon6.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 372,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-icon5.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/service-icon5.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 311,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "26x26-icon1-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/26x26-icon1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 696,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/service.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 12789,
+            "dimensions": [
+                523,
+                260
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/developers-testing-software_7416545.htm#page=1&query=service&position=36"
+        },
+        {
+            "filename": "98x98-service1-icon1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/98x98-service1-icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 1020,
+            "dimensions": [
+                98,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "98x98-service1-icon3.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/98x98-service1-icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 769,
+            "dimensions": [
+                98,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "98x98-service1-icon4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/98x98-service1-icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 1198,
+            "dimensions": [
+                98,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "demo2-img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/demo2-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                }
+            ],
+            "filesize": 12642,
+            "dimensions": [
+                490,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/men-with-gadgets-isolated-white-background_4155569.htm#page=3&query=chat+mobile+application&position=47"
+        },
+        {
+            "filename": "26x26-icon2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/26x26-icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-1.json",
+                    "name": "Service-1"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 337,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blue-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/blue-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1294,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "black-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/black-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1510,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "green-icon.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/green-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1282,
+            "dimensions": [
+                51,
+                50
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service2-img1-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/service2-img1-1-600x449.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 15515,
+            "dimensions": [
+                650,
+                486
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/office-workers-analyzing-researching-business-data_7732712.htm#page=2&query=development&position=10"
+        },
+        {
+            "filename": "icon3-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon3-4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1607,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon4-4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1455,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon5-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon5-4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1836,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6-4.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/icon6-4.png",
+            "templates": [
+                {
+                    "source": "templates\/service-2.json",
+                    "name": "Service-2"
+                }
+            ],
+            "filesize": 1418,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team6.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team6.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14360,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-people-avatars_7065592.htm"
+        },
+        {
+            "filename": "team5.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team5.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 12731,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team7.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team7.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14479,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-people-avatars_7065592.htm"
+        },
+        {
+            "filename": "team8.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team8.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15025,
+            "dimensions": [
+                294,
+                328
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/set-people-avatars_7065592.htm"
+        },
+        {
+            "filename": "team-bg-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team-bg-1-600x140.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9802,
+            "dimensions": [
+                1920,
+                447
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-small.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/team-small.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5426,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-avatars_7065588.htm#page=3&query=avatar&position=35"
+        },
+        {
+            "filename": "team-img.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/team-img.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 13791,
+            "dimensions": [
+                506,
+                460
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-working-office_4985722.htm#page=2&query=work&position=18"
+        },
+        {
+            "filename": "team-bg2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/team-bg2-600x151.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2092,
+            "dimensions": [
+                1920,
+                483
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "how-it-works-img1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/how-it-works-img1.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 25585,
+            "dimensions": [
+                456,
+                452
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-working-office_4985722.htm#page=1&query=pack-people-working-office&position=8"
+        },
+        {
+            "filename": "how-it-work-play-btn.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2021\/04\/how-it-work-play-btn.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 1537,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "how-it-works-img2.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/how-it-works-img2.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How it Works"
+                }
+            ],
+            "filesize": 20735,
+            "dimensions": [
+                470,
+                554
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/pack-people-working-office_4985722.htm#page=1&query=pack-people-working-office&position=8"
+        },
+        {
+            "filename": "FAQ-bg-1.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/05\/FAQ-bg-1-600x203.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 5993,
+            "dimensions": [
+                1920,
+                651
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "contact.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/contact.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-1.json",
+                    "name": "Contact-1"
+                }
+            ],
+            "filesize": 13015,
+            "dimensions": [
+                509,
+                516
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/contact-us-landing-page-design_5458414.htm"
+        },
+        {
+            "filename": "contact2-shape.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/contact2-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 2134,
+            "dimensions": [
+                151,
+                479
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "contact2-circle.png",
+            "thumbnail_url": "https:\/\/dronix.radiantthemes.com\/wp-content\/uploads\/2020\/04\/contact2-circle.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-2.json",
+                    "name": "Contact-2"
+                }
+            ],
+            "filesize": 2093,
+            "dimensions": [
+                137,
+                137
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
